@@ -1,3 +1,6 @@
+// @author: Amir Armion
+// @version: V.01
+
 /* 
 All codes related to the post:
 Their URL: localhost:3000/posts/...

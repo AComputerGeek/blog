@@ -1,3 +1,6 @@
+// @author: Amir Armion
+// @version: V.01
+
 // Users
 const users = {
   1: {
